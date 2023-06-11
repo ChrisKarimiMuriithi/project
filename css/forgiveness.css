@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+	 
+  outline-style: solid;
+  outline-color:invert;
+  outline-width: thin;
+}
+h3{
+	margin: 30px;
+  background: yellow;
+  border: 1px solid black;
+  outline: 1px solid red;
+  outline-offset: 15px;
+}

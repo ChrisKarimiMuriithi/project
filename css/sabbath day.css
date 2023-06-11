@@ -1,0 +1,15 @@
+body{
+	margin:0;
+	padding:0;
+}
+h1{
+	color:rgba(0,200,200,0.5);
+	font-weight: 1.25rem;
+	font-size:2rem;
+	font-family: sans-serif;
+	color:rgba(0,200,200,0.5);
+	 text-decoration: red 1px;
+}	
+p{
+	font-family: sans-serif;
+}
